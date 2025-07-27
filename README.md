@@ -1,4 +1,4 @@
-# **Hey, I'm [Your Name]** 👋  
+# **Hey, I'm [Samha]** 👋  
 ### **{ Your Role }** | **{ Your Specialty }** | **Open-Source Contributor**  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F718&background=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Engineer;AI%2FML+Enthusiast;Tech+Writer;Problem+Solver)](https://git.io/typing-svg)
@@ -7,10 +7,10 @@
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow">
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
+  <a href="https://github.com/SamFaMH">
+    <img src="https://komarev.com/ghpvc/?username=SamFaMH&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
   </a>
-  <a href="https://wakatime.com/@yourusername">
+  <a href="https://wakatime.com/@SamFaMH">
     <img src="https://wakatime.com/badge/user/youruserid.svg?style=flat" alt="WakaTime Coding Stats">
   </a>
 </p>
@@ -54,15 +54,15 @@ I'm a **{ Your Role }** specializing in **{ Your Expertise }**. I love building 
 ## **📊 GitHub Stats & Analytics**  
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" />
+  <a href="https://github.com/SamFaMH">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamFaMH&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamFaMH&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/SamFaMH">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamFaMH&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
