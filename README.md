@@ -92,9 +92,6 @@ I’m a **Full‑Stack Developer** building scalable web apps, automating tediou
 
 <div align="center">
 
-[![Samha's GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamFaMH&theme=vue)](https://github.com/SamFaMH)
-
-[![Streak](https://streak-stats.demolab.com?user=SamFaMH&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamFaMH&theme=react-dark&area=true)](https://github.com/SamFaMH)
 
