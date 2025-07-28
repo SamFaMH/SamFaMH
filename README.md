@@ -20,7 +20,7 @@
 ## **🚀 About Me**  
 
 I'm a **{ Your Role }** specializing in **{ Your Expertise }**. I love building scalable systems, contributing to open-source, and automating everything.  
-
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 ✔ **Currently:** Working on **[Project Name]**  
 ✔ **Learning:** **Next.js, Kubernetes, Rust**  
 ✔ **Ask me about:** **React, Node.js, Cloud Architecture**  
