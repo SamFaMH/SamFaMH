@@ -27,131 +27,84 @@ I’m a **Full‑Stack Developer** building scalable web apps, automating tediou
 ## 🛠 Tech Stack
 
 <div align="center">
-
-### 🩵 Frontend
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; justify-items: center; margin: 24px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/javascript.svg" width="48" height="48" title="JavaScript">
-    <span style="margin-top: 8px; font-size: 12px;">JavaScript</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/typescript-icon.svg" width="48" height="48" title="TypeScript">
-    <span style="margin-top: 8px; font-size: 12px;">TypeScript</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/react.svg" width="48" height="48" title="React">
-    <span style="margin-top: 8px; font-size: 12px;">React</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/nextjs-icon.svg" width="48" height="48" title="Next.js">
-    <span style="margin-top: 8px; font-size: 12px;">Next.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/tailwindcss-icon.svg" width="48" height="48" title="Tailwind CSS">
-    <span style="margin-top: 8px; font-size: 12px;">Tailwind</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/bootstrap.svg" width="48" height="48" title="Bootstrap">
-    <span style="margin-top: 8px; font-size: 12px;">Bootstrap</span>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
 
-### 🩶 Backend & Databases
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; margin: 32px 0;">
-  <div>
-    <h4 style="margin-bottom: 16px;">Backend</h4>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://api.iconify.design/logos/nodejs-icon.svg" width="48" height="48" title="Node.js">
-        <span style="margin-top: 8px; font-size: 12px;">Node.js</span>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://api.iconify.design/logos/python.svg" width="48" height="48" title="Python">
-        <span style="margin-top: 8px; font-size: 12px;">Python</span>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://api.iconify.design/logos/fastapi.svg" width="48" height="48" title="FastAPI">
-        <span style="margin-top: 8px; font-size: 12px;">FastAPI</span>
-      </div>
-    </div>
-  </div>
-  
-  <div>
-    <h4 style="margin-bottom: 16px;">Databases</h4>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://api.iconify.design/logos/mongodb-icon.svg" width="48" height="48" title="MongoDB">
-        <span style="margin-top: 8px; font-size: 12px;">MongoDB</span>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://api.iconify.design/logos/mysql.svg" width="48" height="48" title="MySQL">
-        <span style="margin-top: 8px; font-size: 12px;">MySQL</span>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://api.iconify.design/logos/postgresql.svg" width="48" height="48" title="PostgreSQL">
-        <span style="margin-top: 8px; font-size: 12px;">PostgreSQL</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-### � Development Tools
-<div style="display: flex; justify-content: center; gap: 24px; margin: 24px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/git-icon.svg" width="48" height="48" title="Git">
-    <span style="margin-top: 8px; font-size: 12px;">Git</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/github-icon.svg" width="48" height="48" title="GitHub">
-    <span style="margin-top: 8px; font-size: 12px;">GitHub</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://api.iconify.design/logos/visual-studio-code.svg" width="48" height="48" title="VS Code">
-    <span style="margin-top: 8px; font-size: 12px;">VS Code</span>
-  </div>
-</div>
-
-</div>
-
-<style>
-  img[title] {
-    transition: all 0.3s ease;
-    padding: 8px;
-    border-radius: 12px;
-    background: rgba(34, 211, 238, 0.1);
-  }
-  img[title]:hover {
-    transform: scale(1.1);
-    background: rgba(34, 211, 238, 0.2);
-    box-shadow: 0 0 12px rgba(34, 211, 238, 0.3);
-  }
-  h4 {
-    color: #22d3ee;
-    font-size: 14px;
-    text-align: center;
-  }
-</style>
 
 ---
 
 ## **📊 GitHub Stats & Analytics**  
 
-<p align="center">
-  <a href="https://github.com/SamFaMH">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamFaMH&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamFaMH&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SamFaMH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/SamFaMH">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamFaMH&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
-### **⚡ Weekly Development Breakdown**  
-<!--START_SECTION:waka-->
-```text
-Python        ████████████████████░░░░░   75.0% 
-JavaScript    ██████░░░░░░░░░░░░░░░░░░░   20.0%
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamFaMH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamFaMH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamFaMH/SamFaMH/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamFaMH/SamFaMH/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamFaMH/SamFaMH/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamFaMH&theme=react-dark&area=true)](https://github.com/SamFaMH)
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhamahir/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-lightgrey)](https://your-portfolio-link.com/)  
+[![Email](https://img.shields.io/badge/Email-%F0%9F%93%A7-red)](mailto:samhamahir@gmail.com)
+
+</div>
