@@ -134,30 +134,24 @@ I’m a **Full‑Stack Developer** building scalable web apps, automating tediou
 
 ---
 
-## 📊 GitHub Stats & Activity
+## **📊 GitHub Stats & Analytics**  
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/SamFaMH">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamFaMH&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamFaMH&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" />
+  </a>
+</p>
 
-[![Samha's GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamFaMH&theme=vue)](https://github.com/SamFaMH)
+<p align="center">
+  <a href="https://github.com/SamFaMH">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamFaMH&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![Streak](https://streak-stats.demolab.com?user=SamFaMH&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamFaMH&theme=react-dark&area=true)](https://github.com/SamFaMH)
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhamahir/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-lightgrey)](https://your-portfolio-link.com/)  
-[![Email](https://img.shields.io/badge/Email-%F0%9F%93%A7-red)](mailto:samhamahir@gmail.com)
-
-</div>
-
----
-
-> Built with ❤️ by Samha · Fuelled by curiosity · Backed by open-source 💡
+### **⚡ Weekly Development Breakdown**  
+<!--START_SECTION:waka-->
+```text
+Python        ████████████████████░░░░░   75.0% 
+JavaScript    ██████░░░░░░░░░░░░░░░░░░░   20.0%
+Other        ██░░░░░░░░░░░░░░░░░░░░░░░   5.0%
